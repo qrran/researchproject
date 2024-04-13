@@ -1,0 +1,13 @@
+.venv
+.vscode
+
+# data files
+data.csv
+data.json
+originaldata.json
+requirements.txt
+
+
+# test python files
+test1.py
+test2.py
