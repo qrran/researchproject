@@ -1,0 +1,302 @@
+{
+  "crash_date": {
+    "0": "2021-09-11T00:00:00.000",
+    "1": "2022-03-26T00:00:00.000",
+    "2": "2022-06-29T00:00:00.000",
+    "3": "2021-09-11T00:00:00.000",
+    "4": "2021-12-14T00:00:00.000",
+    "5": "2021-04-14T00:00:00.000",
+    "6": "2021-12-14T00:00:00.000",
+    "7": "2021-12-14T00:00:00.000",
+    "8": "2021-12-14T00:00:00.000",
+    "9": "2021-12-14T00:00:00.000"
+  },
+  "crash_time": {
+    "0": 1712975940000,
+    "1": 1713008700000,
+    "2": 1712991300000,
+    "3": 1713000900000,
+    "4": 1712995980000,
+    "5": 1713012420000,
+    "6": 1713027900000,
+    "7": 1712996220000,
+    "8": 1713042600000,
+    "9": 1713020280000
+  },
+  "on_street_name": {
+    "0": "WHITESTONE EXPRESSWAY",
+    "1": "QUEENSBORO BRIDGE UPPER",
+    "2": "THROGS NECK BRIDGE",
+    "3": null,
+    "4": "SARATOGA AVENUE",
+    "5": "MAJOR DEEGAN EXPRESSWAY RAMP",
+    "6": "BROOKLYN QUEENS EXPRESSWAY",
+    "7": null,
+    "8": null,
+    "9": "3 AVENUE"
+  },
+  "off_street_name": {
+    "0": "20 AVENUE",
+    "1": null,
+    "2": null,
+    "3": null,
+    "4": "DECATUR STREET",
+    "5": null,
+    "6": null,
+    "7": null,
+    "8": null,
+    "9": "EAST 43 STREET"
+  },
+  "number_of_persons_injured": {
+    "0": 2,
+    "1": 1,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 0,
+    "6": 0,
+    "7": 2,
+    "8": 0,
+    "9": 0
+  },
+  "number_of_persons_killed": {
+    "0": 0,
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 0,
+    "6": 0,
+    "7": 0,
+    "8": 0,
+    "9": 0
+  },
+  "number_of_pedestrians_injured": {
+    "0": 0,
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 0,
+    "6": 0,
+    "7": 0,
+    "8": 0,
+    "9": 0
+  },
+  "number_of_pedestrians_killed": {
+    "0": 0,
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 0,
+    "6": 0,
+    "7": 0,
+    "8": 0,
+    "9": 0
+  },
+  "number_of_cyclist_injured": {
+    "0": 0,
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 0,
+    "6": 0,
+    "7": 0,
+    "8": 0,
+    "9": 0
+  },
+  "number_of_cyclist_killed": {
+    "0": 0,
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 0,
+    "6": 0,
+    "7": 0,
+    "8": 0,
+    "9": 0
+  },
+  "number_of_motorist_injured": {
+    "0": 2,
+    "1": 1,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 0,
+    "6": 0,
+    "7": 2,
+    "8": 0,
+    "9": 0
+  },
+  "number_of_motorist_killed": {
+    "0": 0,
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 0,
+    "6": 0,
+    "7": 0,
+    "8": 0,
+    "9": 0
+  },
+  "contributing_factor_vehicle_1": {
+    "0": "Aggressive Driving/Road Rage",
+    "1": "Pavement Slippery",
+    "2": "Following Too Closely",
+    "3": "Unspecified",
+    "4": null,
+    "5": "Unspecified",
+    "6": "Passing Too Closely",
+    "7": "Unspecified",
+    "8": "Driver Inexperience",
+    "9": "Passing Too Closely"
+  },
+  "contributing_factor_vehicle_2": {
+    "0": "Unspecified",
+    "1": null,
+    "2": "Unspecified",
+    "3": null,
+    "4": null,
+    "5": "Unspecified",
+    "6": "Unspecified",
+    "7": "Unspecified",
+    "8": "Unspecified",
+    "9": "Unspecified"
+  },
+  "collision_id": {
+    "0": 4455765,
+    "1": 4513547,
+    "2": 4541903,
+    "3": 4456314,
+    "4": 4486609,
+    "5": 4407458,
+    "6": 4486555,
+    "7": 4486660,
+    "8": 4487074,
+    "9": 4486519
+  },
+  "vehicle_type_code1": {
+    "0": "Sedan",
+    "1": "Sedan",
+    "2": "Sedan",
+    "3": "Sedan",
+    "4": null,
+    "5": "Dump",
+    "6": "Sedan",
+    "7": "Sedan",
+    "8": "Sedan",
+    "9": "Sedan"
+  },
+  "vehicle_type_code2": {
+    "0": "Sedan",
+    "1": null,
+    "2": "Pick-up Truck",
+    "3": null,
+    "4": null,
+    "5": "Sedan",
+    "6": "Tractor Truck Diesel",
+    "7": "Sedan",
+    "8": null,
+    "9": "Station Wagon/Sport Utility Vehicle"
+  },
+  "borough": {
+    "0": null,
+    "1": null,
+    "2": null,
+    "3": "BROOKLYN",
+    "4": "BROOKLYN",
+    "5": null,
+    "6": null,
+    "7": "BRONX",
+    "8": "BROOKLYN",
+    "9": "MANHATTAN"
+  },
+  "zip_code": {
+    "0": null,
+    "1": null,
+    "2": null,
+    "3": 11208.0,
+    "4": 11233.0,
+    "5": null,
+    "6": null,
+    "7": 10475.0,
+    "8": 11207.0,
+    "9": 10017.0
+  },
+  "latitude": {
+    "0": null,
+    "1": null,
+    "2": null,
+    "3": 40.667202,
+    "4": 40.683304,
+    "5": null,
+    "6": 40.709183,
+    "7": 40.86816,
+    "8": 40.67172,
+    "9": 40.75144
+  },
+  "longitude": {
+    "0": null,
+    "1": null,
+    "2": null,
+    "3": -73.8665,
+    "4": -73.917274,
+    "5": null,
+    "6": -73.956825,
+    "7": -73.83148,
+    "8": -73.8971,
+    "9": -73.97397
+  },
+  "location": {
+    "0": null,
+    "1": null,
+    "2": null,
+    "3": {
+      "latitude": "40.667202",
+      "longitude": "-73.8665",
+      "human_address": "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"\"}"
+    },
+    "4": {
+      "latitude": "40.683304",
+      "longitude": "-73.917274",
+      "human_address": "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"\"}"
+    },
+    "5": null,
+    "6": {
+      "latitude": "40.709183",
+      "longitude": "-73.956825",
+      "human_address": "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"\"}"
+    },
+    "7": {
+      "latitude": "40.86816",
+      "longitude": "-73.83148",
+      "human_address": "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"\"}"
+    },
+    "8": {
+      "latitude": "40.67172",
+      "longitude": "-73.8971",
+      "human_address": "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"\"}"
+    },
+    "9": {
+      "latitude": "40.75144",
+      "longitude": "-73.97397",
+      "human_address": "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"\"}"
+    }
+  },
+  "cross_street_name": {
+    "0": null,
+    "1": null,
+    "2": null,
+    "3": "1211      LORING AVENUE",
+    "4": null,
+    "5": null,
+    "6": null,
+    "7": "344       BAYCHESTER AVENUE",
+    "8": "2047      PITKIN AVENUE",
+    "9": null
+  }
+}
